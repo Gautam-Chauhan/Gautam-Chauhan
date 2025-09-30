@@ -7,7 +7,7 @@ I am a MSc Statistics student at Imperial College London, interested in statisti
 
 In my spare time, I enjoy running, you can find my Power of 10 Profile here: [Power of 10](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=802995)
 
-Thanks for reading!
+Thanks for reading! Please feel free to look through my respositories.
 
 <!--
 **Gautam-Chauhan/Gautam-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
