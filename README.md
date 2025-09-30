@@ -1,4 +1,4 @@
-## Welllllllllcome to my GitHub account!
+## Welcome to my GitHub account!
 
 I am a MSc Statistics student at Imperial College London, interested in statistics, machine learning and computer science. I previously completed an undergraduate degree in maths and physics at UCL. In this GitHub account, you can find personal projects and projects I've done for internships and my degree. To find out more, you can contact me at one of these email addresses:
 
