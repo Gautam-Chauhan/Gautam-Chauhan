@@ -5,7 +5,7 @@ I am a MSc Statistics student at Imperial College London, interested in statisti
 - gautam.chauhan.2509@gmail.com
 - gc625@ic.ac.uk
 
-In my spare time, I enjoy running, you can find my Power of 10 Profile here: [power of 100](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=802995)
+In my spare time, I enjoy running, you can find my Power of 10 Profile here: [Power of 10](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=802995)
 
 Thanks for reading!
 
